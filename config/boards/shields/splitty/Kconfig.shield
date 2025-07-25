@@ -2,4 +2,4 @@ config SHIELD_SPLITTY_LEFT
     def_bool $(shields_list_contains,splitty_left)
 
 config SHIELD_SPLITTY_RIGHT
-    def_bool $(shields_list_contains,splitty)
+    def_bool $(shields_list_contains,splitty_right)

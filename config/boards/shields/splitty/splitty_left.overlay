@@ -11,5 +11,3 @@
 				<&gpio0 14 GPIO_ACTIVE_HIGH>,
 				<&gpio0 13 GPIO_ACTIVE_HIGH>;
 };
-	
-	
