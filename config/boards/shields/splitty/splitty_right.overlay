@@ -4,7 +4,7 @@
     col-offset = <7>;
 };
 
-&default_kscan{
+&default_kscan {
 		
 		
 	col-gpios = <&gpio0 13 GPIO_ACTIVE_HIGH>,
