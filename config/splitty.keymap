@@ -19,7 +19,7 @@
 		lower_layer {
 			bindings = <
 				&bt BT_CLR		&bt BT_SEL 0	&bt BT_SEL 1  	&bt BT_SEL 2   	&bt BT_SEL 3   	&bt BT_SEL 4											&trans			&trans			&trans			&kp LBKT		&kp RBKT		&kp BSPC
-				&trans			&trans			&kp UARW		&trans			&trans			&trans													&trans			&trans			&kp UARW		&MINUS			&EQUAL			&trans
+				&trans			&trans			&kp UARW		&trans			&trans			&trans													&trans			&trans			&kp UARW		&kp MINUS		&kp EQUAL			&trans
 				&kp LCTRL		&kp LARW		&kp DARW		&kp RARW		&trans			&trans			&trans					&trans			&trans			&kp LARW		&kp DARW		&kp RARW		&trans			&kp RET
 				&kp LSHFT		&trans			&trans			&trans			&trans			&trans													&trans			&trans			&trans			&kp DOT			&kp FSLH		&trans
 																&kp LALT		&kp LCMD		&kp SPACE		&trans					&trans			&kp SPACE		&kp RCMD		&kp RALT
