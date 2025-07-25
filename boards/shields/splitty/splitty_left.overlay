@@ -1,6 +1,6 @@
 #include "splitty.dtsi"
 		
-&default_kscan {
+&kscan0 {
 		
 		
 	col-gpios = <&gpio0 10 GPIO_ACTIVE_HIGH>,
