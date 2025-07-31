@@ -22,7 +22,7 @@
 			bindings = <
 				&bt BT_CLR		&bt BT_SEL 0	&bt BT_SEL 1  	&bt BT_SEL 2   	&bt BT_SEL 3   	&bt BT_SEL 4											&kp TILDE		&trans			&trans			&kp LBKT		&kp RBKT		&trans
 				&trans			&trans			&trans			&trans			&trans			&trans													&trans			&trans			&kp UARW		&kp MINUS		&kp EQUAL		&kp BSLH
-				&trans			&kp F1			&kp F2			&kp F3			&kp F4			&kp F5			&kp C_VOL_DOWN			&kp C_VOL_UP	&kp F6			&kp LARW		&kp DARW		&kp RARW		&trans			&trans
+				&trans			&kp F1			&kp F2			&kp F3			&kp F4			&kp F5			&c C_VOL_DOWN			&c C_VOL_UP	&kp F6			&kp LARW		&kp DARW		&kp RARW		&trans			&trans
 				&trans			&kp F7			&kp F8			&kp F9			&kp F10			&kp F11													&kp F12			&trans			&trans			&trans			&trans			&trans
 																&trans			&trans			&trans			&trans					&trans			&trans			&trans			&trans
 			>;	
